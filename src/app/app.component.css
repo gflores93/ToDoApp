@@ -1,0 +1,14 @@
+
+
+.header {
+    padding: 0;
+}
+
+
+
+.footer {
+    height: 250px;
+    /* for this example, can be anything */
+    margin-top: 250px;
+    /* exact same value as the height */
+}
